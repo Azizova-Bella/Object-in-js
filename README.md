@@ -34,6 +34,8 @@ console.log(user.name); // Alex
 console.log(user["age"]); // 25
 ```
 
+![image](https://github.com/user-attachments/assets/e2094de8-de82-4bd8-9808-d27ecb02ecd0)
+
 ## Добавление и изменение свойств
 
 ```javascript
