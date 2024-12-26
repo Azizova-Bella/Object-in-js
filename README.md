@@ -20,9 +20,9 @@ console.log(user);
 ![image](https://github.com/user-attachments/assets/a9033897-dc61-48f1-b1af-1a20aeb36787)
 
 
-# У Object -а есть свойст, так как разделяется в 2 части. Можно посмотреть так же в код:
-1) Ключ
-2) Значение
+### У Object -а есть свойст, так как разделяется в 2 части. Можно посмотреть так же в код:
+#### 1) Ключ
+#### 2) Значение
 
 ![image](https://github.com/user-attachments/assets/dab0d602-1452-4f2f-b1a6-2549f7d26a3c)
 
