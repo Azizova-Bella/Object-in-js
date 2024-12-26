@@ -93,3 +93,6 @@ console.log("phone" in user); // true
 ## Заключение
 
 Объекты — это ключевая структура данных в JavaScript, позволяющая хранить и обрабатывать данные удобным образом.
+
+![image](https://github.com/user-attachments/assets/886be271-42da-400b-b1e4-30a7d901743c)
+
