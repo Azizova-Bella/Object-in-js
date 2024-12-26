@@ -17,6 +17,7 @@ const user = {
 
 console.log(user);
 ```
+![image](https://github.com/user-attachments/assets/a9033897-dc61-48f1-b1af-1a20aeb36787)
 
 ## Доступ к свойствам
 
