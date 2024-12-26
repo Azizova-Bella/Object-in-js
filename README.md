@@ -66,13 +66,13 @@ user.phone = "123-456-7890";
 console.log(user);
 ```
 
-## Перебор свойств объекта
+//## Перебор свойств объекта
 
-```javascript
-for (const key in user) {
-  console.log(`${key}: ${user[key]}`);
-}
-```
+//```javascript
+//for (const key in user) {
+//  console.log(`${key}: ${user[key]}`);
+//}
+//```
 
 ## Вызов метода объекта
 
