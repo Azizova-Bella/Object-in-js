@@ -56,6 +56,7 @@ delete user.isActive;
 delete user.email;
 console.log(user);
 ```
+![image](https://github.com/user-attachments/assets/03f2eef6-a36c-4cf7-9379-1862819d564a)
 
 ## Добавление свойств
 
@@ -65,15 +66,6 @@ user.phone = "123-456-7890";
 
 console.log(user);
 ```
-
-//## Перебор свойств объекта
-
-//```javascript
-//for (const key in user) {
-//  console.log(`${key}: ${user[key]}`);
-//}
-//```
-
 ## Вызов метода объекта
 
 ```javascript
@@ -94,6 +86,9 @@ console.log(newUser);
 console.log("email" in user); // false
 console.log("phone" in user); // true
 ```
+
+![image](https://github.com/user-attachments/assets/ef702e74-ecad-4159-971f-09a3db3beef2)
+
 
 ## Заключение
 
