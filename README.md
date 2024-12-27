@@ -128,8 +128,10 @@ console.log("email" in user); // false
 console.log("phone" in user); // true
 ```
 
-![image](https://github.com/user-attachments/assets/ef702e74-ecad-4159-971f-09a3db3beef2)
+# DESTRUCTURING - берет ключ от обьекта и найдёт значение 
+## Значение перемещается в другом перемене.
 
+![image](https://github.com/user-attachments/assets/ef702e74-ecad-4159-971f-09a3db3beef2)
 
 
 ## Заключение
