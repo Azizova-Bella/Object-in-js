@@ -30,6 +30,32 @@ console.log(user);
 ![image](https://github.com/user-attachments/assets/dab0d602-1452-4f2f-b1a6-2549f7d26a3c)
 
 
+# Методы Object 
+
+## 1. Object.values()
+
+```javascript 
+const values = Object.values(person);
+console.log(values);
+// Output: [ "Alice", 25, "Developer" ]
+```
+## 2. Object.keys()
+
+```javascript
+const keys = Object.keys(person);
+console.log(keys);
+// Output: [ "name", "age", "occupation" ]
+
+```
+
+## 3. Object.entries()
+
+```javascript
+const entries = Object.entries(person);
+console.log(entries);
+// Output: [ ["name", "Alice"], ["age", 25], ["occupation", "Developer"] ]
+```
+
 ## Доступ к свойствам
 
 ```javascript
@@ -103,6 +129,7 @@ console.log("phone" in user); // true
 ```
 
 ![image](https://github.com/user-attachments/assets/ef702e74-ecad-4159-971f-09a3db3beef2)
+
 
 
 ## Заключение
